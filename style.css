@@ -450,6 +450,7 @@ header img {
 }
 
 .navegacion a {
+    background-color: #45b8b8;
     display: block;
     font-family: helvetica;
     font-size: 2.2rem;
