@@ -441,8 +441,7 @@ header img {
 
 @media (max-width: 480px) {
     .navegacion {
-    display: grid;
-    grid-template-columns: repeat(1,1fr);
+    display: block;
     background-color: var(--colorPrincipal);
     margin-top: 1rem;
     height: 2.5rem;
