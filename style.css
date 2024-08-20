@@ -460,4 +460,9 @@ header img {
     padding-left: 3%;
     padding-right: 3%;
 }
+
+.google-maps {
+    width: 100vw;
+    height: 100vh;
+  }
 }
